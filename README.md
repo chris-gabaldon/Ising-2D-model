@@ -25,33 +25,3 @@ c
   by fitting the susceptibility peaks with a quadratic function.
 
 Results and Analysis: Plots and analyzes the results to determine the critical temperature and the behavior of the correlation length. Compares the estimated critical temperature with theoretical values.
-
-How to Use
-Open the Jupyter Notebook file ising_model_simulation.ipynb in a Jupyter environment.
-Run the cells sequentially to execute the Monte Carlo simulations and analyze the results.
-Review the generated plots and results for insights into the Ising model's critical behavior.
-Results Summary
-The critical temperature obtained is 
-𝑇
-𝑐
-=
-2.268
-±
-0.002
-T 
-c
-​
- =2.268±0.002, which is close to the theoretical value 
-𝑇
-𝑐
-=
-2.27
-T 
-c
-​
- =2.27.
-The notebook also demonstrates how the correlation length 
-𝜉
-ξ varies with temperature and compares this with the critical temperature.
-
-
